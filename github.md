@@ -10,5 +10,14 @@
 > 
 > git push
 
+## github blog 常见用法
+[https://hexo.io/zh-cn/docs/commands.html](https://hexo.io/zh-cn/docs/commands.html "https://hexo.io/zh-cn/docs/commands.html")
+
+hexo new "title"
+hexo clean 清除缓存
+hexo generate(g) 生成
+hexo publish   draft->posts
+hexo deploy
+
 
 
