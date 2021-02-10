@@ -9,5 +9,5 @@ solution:
 > sudo rm /var/lib/dpkg/lock-frontend   
 > sudo rm /var/lib/dpkg/lock
 
-## 更改ubuntu当前用户名
-
+## 修改Ubuntu字体大小
+综合调节 system settings中apperence的侧边栏大小和display的比例
