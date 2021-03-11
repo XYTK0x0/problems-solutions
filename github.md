@@ -26,3 +26,8 @@ git push出错
 可能是网络不稳定/SSL的
 
 > solution: git config --global http.sslVerify "false"
+
+不是根本的解决办法，有时仍会出错
+
+## 删除文件
+
